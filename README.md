@@ -31,10 +31,10 @@ Or save the gif.
 # Screenshot
 
 ![image](https://github.com/ttvkenvin/Magical-Template/blob/master/1.png)
-![image](https://github.com/ttvkenvin/Magical-Template/blob/master/2.png)
-![image](https://github.com/ttvkenvin/Magical-Template/blob/master/3.png)
-![image](https://github.com/ttvkenvin/Magical-Template/blob/master/4.png)
-![image](https://github.com/ttvkenvin/Magical-Template/blob/master/5.png)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/2.PNG)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/3.PNG)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/4.PNG)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/5.PNG)
 
 # CONTACT US
 Ketinr156@gmail.com
