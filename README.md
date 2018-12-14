@@ -30,9 +30,13 @@ Or save the gif.
 
 # Screenshot
 
-![image]()
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/1.png)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/2.png)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/3.png)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/4.png)
+![image](https://github.com/ttvkenvin/Magical-Template/blob/master/5.png)
 
 # CONTACT US
-# Ketinr156@gmail.com
-# +44 8446679025
+Ketinr156@gmail.com
++44 8446679025
 
